@@ -1,6 +1,5 @@
 # Lebenslauf</h1>
-![Profilbild](IMG_6912
-.JPG)
+![Profilbild](IMG_6912.JPG)
 
 Name:		Tom Herrmann <br>
 Geburtstag:	32.13.19999<br>
